@@ -1,88 +1,235 @@
 {
-  "transactions": [
+  "jobs": [
     {
       "id": "1",
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "title": "Fullstack Developer",
+      "description": "Experienced with modern JS stack, experience with React and Node.",
+      "employment_type": "Full time",
+      "location": "Syokimau"
     },
     {
       "id": "2",
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "title": "Frontend Developer",
+      "description": "Experienced with modern JS stack, experience with React.",
+      "employment_type": "Full time",
+      "location": "Roysambu"
     },
     {
       "id": "3",
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "title": "Backend Developer",
+      "description": "Experienced with modern JS stack, experience with Node.",
+      "employment_type": "Full time",
+      "location": "CBD"
     },
     {
       "id": "4",
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "title": "DevOps Engineer",
+      "description": "Experienced with Docker and Kubernetes.",
+      "employment_type": "part_time",
+      "location": "Westlands"
     },
     {
       "id": "5",
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "title": "UI/UX Designer",
+      "description": "Experienced with wireframe tools (e.g. Wireframe.cc and InVision).",
+      "employment_type": "Full time",
+      "location": "Nairobi West"
     },
     {
       "id": "6",
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
+      "title": "Data Warehouse Engineer",
+      "description": "Experienced with using Spark SQL and Hive to write queries and scripts.",
+      "employment_type": "Full time",
+      "location": "South B"
     },
     {
       "id": "7",
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
+      "title": "IT Administrator",
+      "description": "Experienced with systems planning, security principles, and general software management best practices.",
+      "employment_type": "part_time",
+      "location": "Kilimani"
     },
     {
       "id": "8",
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
+      "title": "IT Recruiter",
+      "description": "Experienced with with various selection processes (phone interview, reference check, etc).",
+      "employment_type": "part_time",
+      "location": "Lavington"
     },
     {
       "id": "9",
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "title": "HR Specialist",
+      "description": "Experienced with HR policies and systems.",
+      "employment_type": "Full time",
+      "location": "Kileleshwa"
     },
     {
       "id": "10",
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
+      "title": "Scrum Master",
+      "description": "Experienced with  the software development lifecycle.",
+      "employment_type": "Full time",
+      "location": "Karen"
     },
     {
       "id": "11",
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
+      "title": "Graphic Designer",
+      "description": "Experienced with  the software development lifecycle.",
+      "employment_type": "Full time",
+      "location": "Rongai"
     },
     {
       "id": "12",
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
+      "title": "Fullstack Developer",
+      "description": "Experienced with modern JS stack, experience with React and Node.",
+      "employment_type": "Full time",
+      "location": "Westlands"
+    },
+    {
+      "id": "13",
+      "title": "Frontend Developer",
+      "description": "Experienced with modern JS stack, experience with React.",
+      "employment_type": "Full time",
+      "location": "South C"
+    },
+    {
+      "id": "14",
+      "title": "Backend Developer",
+      "description": "Experienced with modern JS stack, experience with Node.",
+      "employment_type": "Full time",
+      "location": "Eastleigh"
+    },
+    {
+      "id": "15",
+      "title": "DevOps Engineer",
+      "description": "Experienced with Docker and Kubernetes.",
+      "employment_type": "part_time",
+      "location": "Kariobangi"
+    },
+    {
+      "id": "16",
+      "title": "UI/UX Designer",
+      "description": "Experienced with wireframe tools (e.g. Wireframe.cc and InVision).",
+      "employment_type": "Full time",
+      "location": "Jogoo Rd"
+    },
+    {
+      "id": "18",
+      "title": "Data Warehouse Engineer",
+      "description": "Experienced with using Spark SQL and Hive to write queries and scripts.",
+      "employment_type": "Full time",
+      "location": "Lang'ata"
+    },
+    {
+      "id": "19",
+      "title": "IT Administrator",
+      "description": "Experienced with systems planning, security principles, and general software management best practices.",
+      "employment_type": "part_time",
+      "location": "Lucky Summer"
+    },
+    {
+      "id": "20",
+      "title": "IT Recruiter",
+      "description": "Experienced with with various selection processes (phone interview, reference check, etc).",
+      "employment_type": "part_time",
+      "location": "Kilimani"
+    },
+    {
+      "id": "21",
+      "title": "HR Specialist",
+      "description": "Experienced with HR policies and systems.",
+      "employment_type": "Full time",
+      "location": "Ngong"
+    },
+    {
+      "id": "22",
+      "title": "Scrum Master",
+      "description": "Experienced with  the software development lifecycle.",
+      "employment_type": "Full time",
+      "location": "Uthiru"
+    },
+    {
+      "id": "23",
+      "title": "Graphic Designer",
+      "description": "Experienced with  the software development lifecycle.",
+      "employment_type": "Full time",
+      "location": "Utawala"
+    },
+    {
+      "id": "24",
+      "title": "Fullstack Developer",
+      "description": "Experienced with modern JS stack, experience with React and Node.",
+      "employment_type": "Full time",
+      "location": "CBD"
+    },
+    {
+      "id": "25",
+      "title": "Frontend Developer",
+      "description": "Experienced with modern JS stack, experience with React.",
+      "employment_type": "Full time",
+      "location": "Githurai 45"
+    },
+    {
+      "id": "26",
+      "title": "Backend Developer",
+      "description": "Experienced with modern JS stack, experience with Node.",
+      "employment_type": "Full time",
+      "location": "Mushatha"
+    },
+    {
+      "id": "27",
+      "title": "DevOps Engineer",
+      "description": "Experienced with Docker and Kubernetes.",
+      "employment_type": "part_time",
+      "location": "Lang'ata"
+    },
+    {
+      "id": "28",
+      "title": "UI/UX Designer",
+      "description": "Experienced with wireframe tools (e.g. Wireframe.cc and InVision).",
+      "employment_type": "Full time",
+      "location": "Syokimau"
+    },
+    {
+      "id": "29",
+      "title": "Data Warehouse Engineer",
+      "description": "Experienced with using Spark SQL and Hive to write queries and scripts.",
+      "employment_type": "Full time",
+      "location": "Kitengela"
+    },
+    {
+      "id": "30",
+      "title": "IT Administrator",
+      "description": "Experienced with systems planning, security principles, and general software management best practices.",
+      "employment_type": "part_time",
+      "location": "Limuru"
+    },
+    {
+      "id": "31",
+      "title": "IT Recruiter",
+      "description": "Experienced with with various selection processes (phone interview, reference check, etc).",
+      "employment_type": "part_time",
+      "location": "Tatu City"
+    },
+    {
+      "id": "32",
+      "title": "HR Specialist",
+      "description": "Experienced with HR policies and systems.",
+      "employment_type": "Full time",
+      "location": "Roysambu"
+    },
+    {
+      "id": "33",
+      "title": "Scrum Master",
+      "description": "Experienced with  the software development lifecycle.",
+      "employment_type": "Full time",
+      "location": "Kiambu Town"
+    },
+    {
+      "id": "34",
+      "title": "Graphic Designer",
+      "description": "Experienced with  the software development lifecycle.",
+      "employment_type": "Full time",
+      "location": "Quiver Kilimani"
     }
   ]
 }
